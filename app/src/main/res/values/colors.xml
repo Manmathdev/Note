@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_paper">#FDFBF9</color>
+    <color name="charcoal">#171717</color>
+    <color name="cocoa_ink">#2B1A07</color>
+    <color name="true_black">#000000</color>
+    <color name="dew_drop">#F7EFE9</color>
+    <color name="marker_orange">#FF6F1E</color>
+    <color name="burnt_sienna">#CE500A</color>
+    <color name="sky_sticker">#3B82F6</color>
+    <color name="bubblegum_sticker">#FF66CF</color>
+    <color name="sprout_sticker">#22C55E</color>
+    <color name="shadow_mist">#BEBcBB</color>
+</resources>
